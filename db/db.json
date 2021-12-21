@@ -1,0 +1,107 @@
+{
+  "stations": [
+    {
+      "number": "1",
+      "RFQ": "select",
+      "name": "The145",
+      "location": "UT",
+      "title": "EASA FAA ISO 9001 / AS9100 OTHERS",
+      "date": "November 22, 2021",
+      "role": "54",
+      "email": "Alpine UT United States",
+      "ohPrice": "1500",
+      "ohTat": "15",
+      "rpPrice": "3000",
+      "rpTat": "10",
+      "tsPrice": "400",
+      "tsTat": "5",
+      "phone": "+1 (888) 820-8551"
+    },
+    {
+      "number": "2",
+      "RFQ": "select",
+      "name": "Xtra Aerospace",
+      "location": "UT",
+      "title": "EASA FAA ISO 9001 / AS9100 OTHERS",
+      "date": "November 22, 2021",
+      "role": "63",
+      "email": "Alpine UT United States",
+      "ohPrice": "1500",
+      "ohTat": "15",
+      "rpPrice": "3000",
+      "rpTat": "10",
+      "tsPrice": "400",
+      "tsTat": "5",
+      "phone": "+1 (888) 820-8551"
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "parts": [
+    {
+      "id": 1,
+      "partNumber": "59500000-1",
+      "description": "Dual DME Indicator",
+      "mfr": "MOOG",
+      "ata": ["34", "34-55-04"],
+      "aircraft": ["707", "727", "747"],
+      "wishlisted": true,
+      "westernSupportGroup": "#",
+      "partTrending": "#",
+      "sponsor": false,
+      "details": [
+        {
+          "name": "Searches",
+          "stat": "745",
+          "previousStat": "70,946",
+          "change": "12%",
+          "changeType": "increase"
+        },
+        {
+          "name": "Shops",
+          "stat": "30",
+          "previousStat": "56.14%",
+          "change": "2.02%",
+          "changeType": "increase"
+        },
+        {
+          "name": "List",
+          "stat": "N/A",
+          "previousStat": "28.62%",
+          "change": "4.05%",
+          "changeType": "decrease"
+        },
+        {
+          "name": "PMA",
+          "stat": "N/A",
+          "previousStat": "28.62%",
+          "change": "4.05%",
+          "changeType": "decrease"
+        }
+      ],
+      "stats": [
+        {
+          "name": "Overhaul",
+          "low": "2326",
+          "mid": "3650",
+          "avg": "2907",
+          "high": "4973"
+        },
+        {
+          "name": "Repair",
+          "low": "3000",
+          "mid": "3000",
+          "avg": "2335",
+          "high": "3000"
+        },
+        {
+          "name": "Test",
+          "low": "400",
+          "mid": "400",
+          "avg": "352",
+          "high": "400"
+        }
+      ]
+    }
+  ]
+}
